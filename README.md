@@ -1,5 +1,5 @@
 # A FinTech Case Study on Banno
-![Banno Logo](banno-logo.png)
+Banno Logo
 
 - Case Study
 - Sources
