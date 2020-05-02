@@ -1,2 +1,5 @@
-# Banno-Case-Study
-A FinTech Case Study on Banno
+# A FinTech Case Study on Banno
+!(banno-logo.png)
+
+- Case Study
+- Sources
