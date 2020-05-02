@@ -8,10 +8,10 @@ Banno
 
 * When was the company incorporated?
 
-Banno was founded in April 1, 2008 under the name of T8 Webware[^1]; The organization later changed their name to Banno on July 10, 2012[^2].
+Banno was founded in April 1, 2008 under the name of T8 Webware [^1]; the organization later changed their name to Banno on July 10, 2012[^2].
 
-[^1]https://www.crunchbase.com/organization/banno#section-overview
-[^2]https://www.businesswire.com/news/home/20120710005271/en/T8-Webware-Banno
+[^1]: https://www.crunchbase.com/organization/banno#section-overview
+[^2]: https://www.businesswire.com/news/home/20120710005271/en/T8-Webware-Banno
 
 
 * Who are the founders of the company?
