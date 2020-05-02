@@ -15,7 +15,7 @@ Banno was founded in April 1, 2008 under the name of T8 Webware[^1]; the organiz
 
 * Who are the founders of the company?
 
-The founder of the company is Wade Arnold.
+The founder of the company is Wade Arnold, and its' current managing director is Benjamin Metz.
 
 * How did the idea for the company (or project) come about?
 
@@ -33,6 +33,8 @@ The company was acquired by Jack Henry and Associated on March 4, 2014 for an un
 
 * What specific financial problem is the company or project trying to solve?
 
+
+
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
@@ -43,10 +45,24 @@ What solution does this company offer that their competitors do not or cannot of
 
 * What domain of the financial industry is the company in?
 
+
 * What have been the major trends and innovations of this domain over the last 5-10 years?
+
+
 
 * What are the other major companies in this domain?
 
+Q2 E-Banking
+https://www.q2ebanking.com
+
+Alkami
+https://www.alkami.com
+
+Kony
+https://www.kony.com
+
+FI Serv
+https://www.fiserv.com
 
 ## Results
 
@@ -61,7 +77,11 @@ What solution does this company offer that their competitors do not or cannot of
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
+Tailored lending, such that personalized financial product offerings can be displayed to and redeemed by customers in an authenticated channel.
+
 * Why do you think that offering this product or service would benefit the company?
+
+
 
 * What technologies would this additional product or service utilize?
 
