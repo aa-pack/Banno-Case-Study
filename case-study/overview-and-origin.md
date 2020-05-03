@@ -1,6 +1,6 @@
-# Overview and Origin
-
 ![Banno-logo](../images/banno-logo.png)
+
+# Overview and Origin
 
 * Name of company?
 
