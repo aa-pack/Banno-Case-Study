@@ -22,4 +22,5 @@ If you're interested you can download the Banno demo app and try it out for your
 
 Footnotes:
 1. https://www.creditkarma.com/faq/howitworks/
+
 [^1]:https://www.creditkarma.com/faq/howitworks/
