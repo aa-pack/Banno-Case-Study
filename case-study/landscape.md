@@ -1,4 +1,4 @@
-# Landscape:
+# Landscape
 
 * What domain of the financial industry is the company in?
 
