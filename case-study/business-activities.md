@@ -1,4 +1,4 @@
-# Business Activities:
+# Business Activities
 
 * What specific financial problem is the company or project trying to solve?
 
