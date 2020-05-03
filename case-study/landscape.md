@@ -22,12 +22,12 @@ All of the companies listed below are the major players in the digital/online ba
 
 Footnotes:
 
-[1]: https://pitchbook.com/profiles/company/118629-64
+[1]:https://pitchbook.com/profiles/company/118629-64
 
-[2]: https://finovate.com/jack-henry-acquires-geezeo/
+[2]:https://finovate.com/jack-henry-acquires-geezeo/
 
-[3]: https://www.bloomberg.com/press-releases/2018-08-14/q2-releases-caliper-sdk-enabling-customers-to-customize-and-extend-q2-platform
+[3]:https://www.bloomberg.com/press-releases/2018-08-14/q2-releases-caliper-sdk-enabling-customers-to-customize-and-extend-q2-platform
 
-[4]: https://konydocs.atlassian.net/wiki/spaces/ARBD/pages/1081433586/Open+Integration
+[4]:https://konydocs.atlassian.net/wiki/spaces/ARBD/pages/1081433586/Open+Integration
 
-[5]: https://www.alkami.com/articles/alkami-launches-new-fintech-partnership-program/
+[5]:https://www.alkami.com/articles/alkami-launches-new-fintech-partnership-program/
