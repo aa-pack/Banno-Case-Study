@@ -8,6 +8,3 @@
 - [Landscape](landscape.md)
 - [Results](results.md)
 - [Recommendations](recommendations.md)
-
-## Full Banno Case Study
-
